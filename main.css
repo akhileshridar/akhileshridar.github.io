@@ -74,7 +74,7 @@
 }
 
 .about_header {
-	font-size: 35px;
+	font-size: 40px;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 200;
@@ -114,9 +114,10 @@
 .project_head {
 	color: white;
 	font-family: 'Roboto', sans-serif;
-	font-size: 35px;
+	font-size: 40px;
 	font-weight: 400;
-	padding-top: 0vh;
+	padding-top: 10vh;
+	padding-bottom: 15px;
 	text-align: left;
 
 }
@@ -201,7 +202,7 @@
 }
 
 .project_header {
-	font-size: 35px;
+	font-size: 40px;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 200;
@@ -253,4 +254,72 @@ div.vertical-line{
   width: 1px; /* Line width */
   background-color: #2F444D; /* Line color */
   height: 40%; /* Override in-line if you want specific height. */
+}
+section#heading .profile-image {
+	width: 205px;
+	height: 205px;
+	background-color: #37BC9B;
+	border-radius: 100%;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-right: auto;
+}
+
+section#heading .profile-image img {
+	width: 100%;
+	height: 100%;
+	border-radius: 100%;
+	border: solid white 5px;
+	margin-left:0%;
+	margin-top: 0%;
+}
+section#heading .btn_btn-default {
+	width: 60vw;
+	font-size: 20px;
+	text-align: top;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	color: white;
+}
+.picture-name {
+	width: 60vw;
+	padding-top: 10px;
+	font-size: 20px;
+	text-align: top;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	color: black;
+}
+.button-head {
+	width: 60vw;
+	padding-top: 10px;
+	font-size: 25px;
+	text-align: top;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	color: black;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: ;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+  background-color: #f5f5f5;
+}
+.text-muted {
+	width: 60vw;
+	padding-top: 00px;
+	font-size: 10px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	color: black;
 }
