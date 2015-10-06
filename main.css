@@ -211,10 +211,10 @@
 
 .quote-section {
 	height: 70vh;
-	background-color: #ecf0f1;
+	background-color: black;
 	width: 100vw;
 	margin-top: 0vh;
-	background: url(img5.jpg) no-repeat top top; 
+	background: url(img10.jpg) no-repeat center top; 
 
 }
 
@@ -226,7 +226,7 @@
 	font-weight: 100;
 	padding-top: 0vh;
 	padding-bottom: 0vh;
-	color: black;
+	color: white;
 }
 
 .quote-author {
@@ -235,7 +235,7 @@
 	text-align: top;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
-	color: #5E6E77;
+	color: white;
 }
 
 .footer-bar {
