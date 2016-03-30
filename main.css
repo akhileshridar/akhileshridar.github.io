@@ -19,7 +19,7 @@
 
 .bg {
 	height: 85vh;
-	 background: url('img9.jpg') no-repeat center bottom; 
+	 background: url('gatewayindai.jpg') no-repeat center top; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -56,14 +56,14 @@
 :focus {outline:none;} ::-moz-focus-inner {border:0;}
 
 .desc_section {
-	height: 65vh;
+	height: 50vh;
 }
 
 .desc_word_box {
 	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
 	font-weight: 100;
-	color: #7f8c8d;
+	color: #000000;
 	width: 69vw;
 	padding: 6vh;
 	line-height: 150%;
@@ -215,13 +215,13 @@
 	background-color: black;
 	width: 100vw;
 	margin-top: 0vh;
-	background: url(gatewayindia.jpg) no-repeat center center; 
+	background: url(2.jpg) no-repeat center center; 
 
 }
 
 .quote-text {
 	width: 70vw;
-	font-size: 40px;
+	font-size: 42px;
 	text-align: top;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
